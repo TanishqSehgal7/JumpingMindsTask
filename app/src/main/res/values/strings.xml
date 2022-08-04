@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="tv_show_name">Tv Show Name</string>
+    <string name="premiered_on">Premiered On:</string>
+    <string name="tv_show_genre">Tv Show Genre</string>
+    <string name="language">Language:</string>
+    <string name="show_type">Show Type:</string>
+</resources>
